@@ -5,6 +5,8 @@ Here are items (mostly 3d models) which are ready to be converted/compiled into 
 For now only Call of Duty (xmodel v5) is stored.
 
 
+# Working addons
+https://www.moddb.com/members/cohnred/addons
 
 
 
